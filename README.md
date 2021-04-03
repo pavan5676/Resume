@@ -32,7 +32,7 @@
   - **DBMS**
   - **GIT And GITHUB**
 
-### Certificationp:
+### Certifications:
   - completed python for everybody in **coursera** 
   - certified by **Fullstack NanoDegree** in **Udacity**
   - certified by **Machine Leaning** in **Udacity**
